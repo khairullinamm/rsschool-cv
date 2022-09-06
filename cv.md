@@ -30,3 +30,8 @@ function sum(number)
     return temp;
 }
 ```
+# Education
+*  **Peter the Great St.Petersburg Polytechnic University (SPbPU)**
+    + Information and analytical security systems (2020-2026)
+* **Practice at LG Electronics**
+    + Разработка web-приложения для SMART TV (July 2022)
