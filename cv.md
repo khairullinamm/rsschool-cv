@@ -15,3 +15,18 @@ I understand that the profession in the field of information security is not ver
 * JavaScript (Fundamentals, ES6+, DOM, JSON, Asynchronous JavaScript)
 * Git, GitHub
 * VS Code
+# Code Examples
+The function searches for the sum of digits in a number
+```
+function sum(number) 
+{
+    let temp = 0;
+    while (number!=0)
+    {
+        temp = temp+number%10;
+        number = number/10;
+    }
+    temp +=number;
+    return temp;
+}
+```
