@@ -37,4 +37,4 @@ function sum(number)
     + Development of a web application for SMART TV (July 2022)
 # Languages
 * Russian - native speaker
-* Enflish - B1
+* English - A2-B1
