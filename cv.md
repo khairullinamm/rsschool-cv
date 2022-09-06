@@ -35,3 +35,6 @@ function sum(number)
     + Information and analytical security systems (2020-2026)
 * **Practice at LG Electronics**
     + Development of a web application for SMART TV (July 2022)
+# Languages
+* Russian - native speaker
+* Enflish - B1
