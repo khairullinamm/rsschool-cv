@@ -3,8 +3,8 @@
 # Contact information:
 * Phone: +79115605181
 * E-mail: hmm2002@yandex.ru
-* GitHub: khairullinamm
-* Telegram @milanahmm
+* GitHub: [khairullinamm](https://github.com/khairullinamm)
+* Telegram [@milanahmm] (https://t.me/milanahmm)
 # About me:
 I am 20 years old, studying at the Faculty of information and analytical security systems in the 3rd year, so I have basic experience in the IT field.
 
