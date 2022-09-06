@@ -34,4 +34,4 @@ function sum(number)
 *  **Peter the Great St.Petersburg Polytechnic University (SPbPU)**
     + Information and analytical security systems (2020-2026)
 * **Practice at LG Electronics**
-    + Разработка web-приложения для SMART TV (July 2022)
+    + Development of a web application for SMART TV (July 2022)
